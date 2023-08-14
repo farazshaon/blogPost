@@ -1,0 +1,4 @@
+netlify deploy website: https://64da242d763dcc3aed250c04--startling-tarsier-5e1dd1.netlify.app/
+
+Note: I facing a problem here, i have style the component and pages using tailwind css, but after deploy the repository, i didn't see the expected result that i see in 3000 port. 
+I don't know what's happening also can't see my logo that i have added.
